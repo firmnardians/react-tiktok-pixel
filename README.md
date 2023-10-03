@@ -1,4 +1,4 @@
-# React Tiktok Helper
+# React Tiktok Pixel - Analytics
 
 This package contains "Tiktok Pixel" for tiktok ads. Already used in the Next.js project. it has been compailed using Babel.js, so it can run on old browsers.
 
